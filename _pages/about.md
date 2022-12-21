@@ -10,8 +10,7 @@ redirect_from:
 
 PERSONAL:
 ======
-Name:  	Chenggang Yan 
-
+Name:  	Chenggang Yan  
 Address: Intelligent Information Processing Lab & Hangzhou Dianzi University, Hangzhou, China
          
 Email:		cgyan@hdu.edu.cn
