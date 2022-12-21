@@ -2,9 +2,7 @@
 permalink: /markdown/
 title: "Contributions & Achievements"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+
 ---
 Chenggang Yan has supervised 18 PhDs and 133 masters since 2016. He has made outstanding con-tributions to research on key technologies of large-scale visual content analysis and processing, and relevant achievements have been recognized by 100+ leading scientists (MAE, IEEE Fellow, etc.).  
 **1. Visual Media Retrieval**  
