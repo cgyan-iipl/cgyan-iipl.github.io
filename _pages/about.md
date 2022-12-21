@@ -174,9 +174,9 @@ PUBLICATIONS:
 
 [18]	Tingyu Wang, Zhedong Zheng, **Chenggang Yan**, Jiyong Zhang, Yaoqi Sun, Bolun Zheng	, Yi Yang: Each Part Matters: Local Patterns Facilitate Cross-View Geo-Localization. IEEE Trans. Circuits Syst. Video Technol. 32(2): 867-879 (2022).
 
-[19]	Xiaofei Zhou, Kunye Shen, Zhi Liu, Chen Gong, Jiyong Zhang, Chenggang Yan: Edge-Aware Multiscale Feature Integration Network for Salient Object Detection in Optical Remote Sensing Images. IEEE Trans. Geosci. Remote. Sens. 60: 1-15 (2022)
+[19]	Xiaofei Zhou, Kunye Shen, Zhi Liu, Chen Gong, Jiyong Zhang, **Chenggang Yan**: Edge-Aware Multiscale Feature Integration Network for Salient Object Detection in Optical Remote Sensing Images. IEEE Trans. Geosci. Remote. Sens. 60: 1-15 (2022)
 
-[20]	Xiaofei Zhou, Hao Fang, Zhi Liu, Bolun Zheng, Yaoqi Sun, Jiyong Zhang, Chenggang Yan: Dense Attention-Guided Cascaded Network for Salient Object Detection of Strip Steel Surface De-fects. IEEE Trans. Instrum. Meas. 71: 1-14 (2022)
+[20]	Xiaofei Zhou, Hao Fang, Zhi Liu, Bolun Zheng, Yaoqi Sun, Jiyong Zhang, **Chenggang Yan**: Dense Attention-Guided Cascaded Network for Salient Object Detection of Strip Steel Surface De-fects. IEEE Trans. Instrum. Meas. 71: 1-14 (2022)
 
 [21]	Bolun Zheng, Quan Chen, Shanxin Yuan, Xiaofei Zhou, Hua Zhang, Jiyong Zhang, **Chenggang Yan**, Gregory G. SlabaughConstrained Predictive Filters for Single Image Bokeh Rendering,  IEEE Trans. Computational Imaging 8: 346-357 (2022)
 
@@ -210,7 +210,7 @@ PUBLICATIONS:
 
 [36]	Yutian Lin, Yu Wu, **Chenggang Yan**, Mingliang Xu, and Yi Yang, “Unsupervised Person Re-identification via Cross-camera Similarity Exploration”, IEEE Transactions on Image Pro-cessing, 2020.
 
-[37]	Yafen Xing, Haibing Yin, Yang Zhou, Yong Chen, Chenggang Yan: Spatiotemporal just noticea-ble difference modeling with heterogeneous temporal visual features. Displays 70: 102096 (2021)
+[37]	Yafen Xing, Haibing Yin, Yang Zhou, Yong Chen, **Chenggang Yan**: Spatiotemporal just noticea-ble difference modeling with heterogeneous temporal visual features. Displays 70: 102096 (2021)
 
 [38]	Zunjie Zhu, Zhefeng Xu, Ruolin Chen, Tingyu Wang, Can Wang, **Chenggang Yan**, Feng Xu: FastFusion: Real-Time Indoor Scene Reconstruction with Fast Sensor Motion. Remote. Sens. 14(15): 3551 (2022)
 
@@ -218,7 +218,7 @@ PUBLICATIONS:
 
 [40]	Ying Liu, Zongyu Zhang, Chengwei Zhou, **Chenggang Yan**, Zhiguo Shi: Robust Variational Bayesian Inference for Direction-of-Arrival Estimation With Sparse Array. IEEE Trans. Veh. Technol. 71(8): 8591-8602 (2022)
 
-[41]	Kai Zeng, Qian Ma, Jiawen Wu, Zhe Chen, Tao Shen, Chenggang Yan: FPGA-based accelerator for object detection: a comprehensive survey. J. Supercomput. 78(12): 14096-14136 (2022)
+[41]	Kai Zeng, Qian Ma, Jiawen Wu, Zhe Chen, Tao Shen, **Chenggang Yan**: FPGA-based accelerator for object detection: a comprehensive survey. J. Supercomput. 78(12): 14096-14136 (2022)
 
 [42]	Yu Zhang, Xingyu Gao, Zhenyu Chen, Huicai Zhong, Hongtao Xie, **Chenggang Yan**, “Mining Spatial-Temporal Similarity for Visual Tracking”, IEEE Transactions on Image Processing, 2020.
 
@@ -254,21 +254,21 @@ PUBLICATIONS:
 
 [58]	Minjeong Kim, **Chenggang Yan**, Defu Yang, Peipeng Liang, Daniel I. Kaufer, Guorong Wu: Con-structing Connectome Atlas by Graph Laplacian Learning. Neuroinformatics 19(2): 233-249 (2021)
 
-[59]	Bin Zhu, Tongkun Xu, Bolun Zheng, Quan Zhang, Yaoqi Sun, Anan Liu, Zhendong Mao, Chenggang Yan: Evolution of ICTs-empowered-identification: A general re-ranking method for person re-identification. Pattern Recognit. Lett. 150: 94-100 (2021)
+[59]	Bin Zhu, Tongkun Xu, Bolun Zheng, Quan Zhang, Yaoqi Sun, Anan Liu, Zhendong Mao, **Chenggang Yan**: Evolution of ICTs-empowered-identification: A general re-ranking method for person re-identification. Pattern Recognit. Lett. 150: 94-100 (2021)
 
-[60]	Yifeng Xie, Hongnan Yang, Xi Yuan, Qian He, Ruitao Zhang, Qianyun Zhu, Zhenhai Chu, Chengming Yang, Peiwu Qin, Chenggang Yan: Stroke prediction from electrocardiograms by deep neural network. Multimedia Tools and Applications. 80(11): 17291-17297 (2021)
+[60]	Yifeng Xie, Hongnan Yang, Xi Yuan, Qian He, Ruitao Zhang, Qianyun Zhu, Zhenhai Chu, Chengming Yang, Peiwu Qin, **Chenggang Yan**: Stroke prediction from electrocardiograms by deep neural network. Multimedia Tools and Applications. 80(11): 17291-17297 (2021)
 
 [61]	Chaoyi Wang, Liang Li, **Chenggang Yan**, Zhan Wang, Yaoqi Sun, Jiyong Zhang: Cross-modal semantic correlation learning by Bi-CNN network. IET Image Process. 15(14): 3674-3684 (2021)
 
 [62]	Xiang Tian, Bolun Zheng, Shengyu Li, **Chenggang Yan**, Jiyong Zhang, Yaoqi Sun, Tao Shen, Mang Xiao: Hard parameter sharing for compressing dense-connection-based image restoration network. J. Electronic Imaging 30(5) (2021)
 
-[63]	Yinhao Liu, Xiaofei Zhou, Haibing Yin, Hongkui Wang, Chenggang Yan: Efficient video quality assessment with deeper spatiotemporal feature extraction and integration. J. Electronic Imaging 30(6) (2021)
+[63]	Yinhao Liu, Xiaofei Zhou, Haibing Yin, Hongkui Wang, **Chenggang Yan**: Efficient video quality assessment with deeper spatiotemporal feature extraction and integration. J. Electronic Imaging 30(6) (2021)
 
 [64]	Zhenbao Liu, Zhen Jia, Chi-Man Vong, Junwei Han, **Chenggang Yan**, Michael G. Pecht, “A Patent Analysis of Prognostics and Health Management (PHM) Innovations for Electrical Systems”, IEEE Access, 2018
 
 [65]	Yaoqi Sun, Liang Li, Liang Zheng, Ji Hu, Wenchao Li, Yatong Jiang, **Chenggang Yan**, “Image classification base on PCA of multi-view deep representation”, Journal of Visual Communi-cation and Image Representation, 2019
 
-[66]	Xiaofei Zhou, Hongfa Wen, Ran Shi, Haibing Yin, Jiyong Zhang, Chenggang Yan: FANet: Feature aggregation network for RGBD saliency detection. Signal Processing: Image Communication. 102: 116591 (2022)
+[66]	Xiaofei Zhou, Hongfa Wen, Ran Shi, Haibing Yin, Jiyong Zhang, **Chenggang Yan**: FANet: Feature aggregation network for RGBD saliency detection. Signal Processing: Image Communication. 102: 116591 (2022)
 
 [67]	Yaoqi Sun, Liang Li, Tingting Yao, Tongyv Lu, Bolun Zheng, **Chenggang Yan**, Hua Zhang, Yongjun Bao, Guiguang Ding, Gregory G. Slabaugh: Bidirectional difference locating and seman-tic consistency reasoning for change captioning. International Journal of Intelligent Systems. 37(5): 2969-2987 (2022)
 
@@ -294,11 +294,11 @@ PUBLICATIONS:
 
 [78]	**Chenggang Yan**, Liang Li, Zhan Wang, Jian Yin, Hailong Shi, Shuqiang Jiang, Qingming Huang, “Fusing multi-cues description for partial-duplicate image retrieval”, Journal of Visual Communi-cation and Image Representation, 2014.
 
-	Conference Papers
+#### Conference Papers
 
 [79]	Hang Xu, Qiang Zhao, Yike Ma, Xiaodong Li, Peng Yuan, Bailan Feng, **Chenggang Yan**, Feng Dai. "PANDORA: A Panoramic Detection Dataset for Object with Orientation." European Con-ference on Computer Vision, 2022.
 
-[80]	Jinkai Zheng, Xinchen Liu, Xiaoyan Gu, Yaoqi Sun, Chuang Gan, Jiyong Zhang, Wu Liu, Cheng-gang Yan. "Gait recognition in the wild with multi-hop temporal switch." Proceedings of the 30th ACM International Conference on Multimedia. 2022.
+[80]	Jinkai Zheng, Xinchen Liu, Xiaoyan Gu, Yaoqi Sun, Chuang Gan, Jiyong Zhang, Wu Liu, **Cheng-gang Yan**. "Gait recognition in the wild with multi-hop temporal switch." Proceedings of the 30th ACM International Conference on Multimedia. 2022.
 
 [81]	Bolun Zheng, Xiaokai Pan, Hua Zhang, Xiaofei Zhou, Gregory Slabaugh, **Chenggang Yan**, Shanxin Yuan. "DomainPlus: Cross Transform Domain Learning towards High Dynamic Range Imaging." Proceedings of the 30th ACM International Conference on Multimedia. 2022.
 
@@ -312,7 +312,7 @@ PUBLICATIONS:
 
 [86]	Jiehua Zhang, Liang Li, **Chenggang Yan**, Yaoqi Sun, Tao Shen, Jiyong Zhang, Zhan Wang: Heu-ristic Depth Estimation with Progressive Depth Reconstruction and Confidence-Aware Loss. ACM Multimedia 2021: 2252-2261
 [87]	Hu Zhang, Chenghua Wang, **Chenggang Yan**, Yijun Cui, Chongyan Gu, Máire O'Neill, Weiqiang Liu: A Dynamic Highly Reliable SRAM-Based PUF Retaining Memory Function.  International Symposium on Circuits and Systems, 2021: 1-5
-[88]	Yunbin Tu, Tingting Yao, Liang Li, Jiedong Lou, Shengxiang Gao, Zhengtao Yu, Chenggang Yan: Semantic Relation-aware Difference Representation Learning for Change Captioning. Findings of the Association for Computational Linguistics, 2021: 63-73
+[88]	Yunbin Tu, Tingting Yao, Liang Li, Jiedong Lou, Shengxiang Gao, Zhengtao Yu, **Chenggang Yan**: Semantic Relation-aware Difference Representation Learning for Change Captioning. Findings of the Association for Computational Linguistics, 2021: 63-73
 [89]	Xin He, Shihao Wang, Xiaowen Chu, Shaohuai Shi, Jiangping Tang, Xin Liu, **Chenggang Yan**, Jiyong Zhang, Guiguang Ding: Automated Model Design and Benchmarking of Deep Learning Models for COVID-19 Detection with Chest CT Scans. AAAI Conference on Artificial Intelligence 2021: 4821-4829
 [90]	Jinkai Zheng, Xinchen Liu, **Chenggang Yan**, Jiyong Zhang, Wu Liu, Xiaoping Zhang, and Tao Mei, “TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recog-nition", IEEE International Symposium on Circuits and Systems, 2021 (Best Paper Award - Hon-orable Mention)
 [91]	Lixuan Meng, **Chenggang Yan**, Jun Li, Jian Yin, Wu Liu, Hongtao Xie, Liang Li, "Multi-Features Fusion and Decomposition for Age-Invariant Face Recognition", ACM Multimedia, 2020.
@@ -333,7 +333,7 @@ PUBLICATIONS:
 [106]	Xinchen Liu, Wu Liu, Meng Zhang, Jingwen Chen, Lianli Gao, **Chenggang Yan**, Tao Mei, Social Relation Recognition from Videos via Multi-scale Spatial-Temporal Reasoning, IEEE/CVF Con-ference on Computer Vision and Pattern Recognition, 2019.
 [107]	Xiaohan Ding, Guiguang Ding, Yuchen Guo, Jungong Han, **Chenggang Yan**, “Approximated Oracle Filter Pruning for Destructive CNN Width Optimization”, International Conference on Ma-chine Learning, 2019.
 [108]	Xin Zhao, Liufang Sang, Guiguang Ding, Jungong Han, Na Di, **Chenggang Yan**, “Recurrent At-tention Model for Pedestrian Attribute Recognition”, AAAI Conference on Artificial Intelligence, 2019.
-[109]	Yuchen Guo, Guiguang Ding, Jungong Han, Xiaohan Ding, Sicheng Zhao, Zheng Wang, Cheng-gang Yan, Qionghai Dai, “Dual-view Ranking with Hardness Assessment for Zero-shot Learning”, AAAI Conference on Artificial Intelligence, 2019. 
+[109]	Yuchen Guo, Guiguang Ding, Jungong Han, Xiaohan Ding, Sicheng Zhao, Zheng Wang, **Cheng-gang Yan**, Qionghai Dai, “Dual-view Ranking with Hardness Assessment for Zero-shot Learning”, AAAI Conference on Artificial Intelligence, 2019. 
 [110]	Liang Li, **Chenggang Yan**, Xing Chen, Shuqiang Jiang, Seungmin Rho, Jian Yin, Baochen Jiang, Qingming Huang, “Large Scale Image Understanding with Non-convex Multi-task Learning”, In-ternational Conference on Game Theory for Networks, 2014. (Best Paper Award) (EI)
 [111]	Chaosheng Han, Xing Lin, Jingyu Lin, **Chenggang Yan**, Qionghai Dai, “Explore spatial-temporal relations: transient super-resolution with PMD sensors”, SPIE/COS Photonics Asia Conference 9273, 2014. (Best Paper Award, 1/138) (EI)
 [112]	Binbin Lv, Jiamin Wu, **Chenggang Yan**, Xinhong Hao, Guiguang Ding, Yongdong Zhang and Qionghai Dai, “Compressive Hyperspectral Imaging Mask Optimization”, International Confer-ence on Internet Multimedia Computing and Service(ICIMCS) 2018. (Best Paper Award, 2/126)
@@ -341,7 +341,7 @@ PUBLICATIONS:
 [114]	**Chenggang Yan**, Feng Dai, Yongdong Zhang, Yike Ma, Licheng Chen, Lingjun Fan, Yasong Zheng, “Parallel Deblocking Filter for H.264/AVC implemented on Tile64 Platform”, International Conference on Multimedia and Expo, 2011. (Best Paper Award - Honorable Mention, 22/744) (EI)
 [115]	Yunbin Tu, Xishan Zhang, Bingtao Liu and **Chenggang Yan**, “Video Description with Spa-tial-Temporal Attention”, ACM Multimedia, 2017. (Full Paper) (ACM MM 2017 Student Travel Grant Award) 
 [116]	Hehe Fan, Zhongwen Xu, Linchao Zhu, **Chenggang Yan**, Jianjun Ge, Yi Yang, “Watching a Small Portion could be as Good as Watching All: Towards Efficient Video Classification”, International Joint Conference on Artificial Intelligence, 2018. 
-[117]	Qi Cai, Yingwei Pan, Ting Yao, Chenggang Yan and Tao Mei, “Memory Matching Networks for One-Shot Image Recognition”, IEEE/CVF Conference on Computer Vision and Pattern Recogni-tion, 2018. 
+[117]	Qi Cai, Yingwei Pan, Ting Yao, **Chenggang Yan** and Tao Mei, “Memory Matching Networks for One-Shot Image Recognition”, IEEE/CVF Conference on Computer Vision and Pattern Recogni-tion, 2018. 
 [118]	Zhenyu Chen, Yiqiang Chen, Xingyu Gao, Shuangquan Wang, Lisha Hu, **Chenggang Yan**, Nich-olas D. Lane, Chunyan Miao, “Unobtrusive Sensing Incremental Social Contexts Using Fuzzy Class Incremental Learning”, IEEE International Conference on Data Mining, 2015
 [119]	**Chenggang Yan**, Yongdong Zhang, Feng Dai and Liang Li, “Highly Parallel Framework for HEVC Motion Estimation on Many-core Platform”, Data Compression Conference, 2013.  
 [120]	**Chenggang Yan**, Yongdong Zhang, Feng Dai and Liang Li, “Efficient Parallel Framework for HEVC Deblocking Filter on Many-core Platform”, Data Compression Conference, 2013. 
@@ -349,5 +349,5 @@ PUBLICATIONS:
 [122]	Ding Liang, Yebin Liu, Wei Yan, **Chenggang Yan**, Qionghai Dai, “Accurate 3D reconstruction using a multi-phase ToF camera”, SPIE/COS Photonics Asia Conference 9273, 2014.
 [123]	**Chenggang Yan**, Feng Dai and Yongdong Zhang, “Parallel Deblocking Filter for H.264/AVC on the TILERA Many-core Systems”, Proc. International Conference on Multimedia Modeling, pp.51-61, Taipei, Taiwan, 2011.
 [124]	Jun Zhang, Yongdong Zhang, Feng Dai and **Chenggang Yan**, “Efficient HEVC to H.264/AVC Transcoding with Fast Intra Mode Decision”, Proc. International Conference on Multimedia Mod-eling, 2013.
-[125]	Weizhi Xu, Zhiyong Liu, Dongrui Fan, Shuai Jiao, Xiaochun Ye, Fenglong Song, Chenggang Yan. Accelerating Sparse Matrix Vector Multiplication on Many-core GPUs, International Conference on Computer and Information Technology, 2012.
+[125]	Weizhi Xu, Zhiyong Liu, Dongrui Fan, Shuai Jiao, Xiaochun Ye, Fenglong Song, **Chenggang Yan**. Accelerating Sparse Matrix Vector Multiplication on Many-core GPUs, International Conference on Computer and Information Technology, 2012.
 [126]	Lingjun Fan, Weisong Shi, Shibin Tang, **Chenggang Yan**, Dongrui Fan. Optimizing Web Browser on Many-Core Architectures, The 12th International Conference on Parallel and Distributed Computing, Applications and Technologies, 2011.
