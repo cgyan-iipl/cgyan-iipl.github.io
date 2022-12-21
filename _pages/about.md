@@ -10,7 +10,7 @@ redirect_from:
 
 PERSONAL:
 ------
-Name:&ensp;Chenggang Yan  
+Name:&ensp;**Chenggang Yan**  
 Address:&ensp;Intelligent Information Processing Lab  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Hangzhou Dianzi University, Hangzhou, China  
 Email:&ensp;cgyan@hdu.edu.cn  
@@ -110,15 +110,15 @@ MAJOR ACADEMIC SERVICES:
 MAIN CONTRIBUTIONS AND ACHIEVEMENTS:
 ------
 Chenggang Yan has supervised 18 PhDs and 133 masters since 2016. He has made outstanding con-tributions to research on key technologies of large-scale visual content analysis and processing, and relevant achievements have been recognized by 100+ leading scientists (MAE, IEEE Fellow, etc.).
-1. Visual Media Retrieval  
+**1. Visual Media Retrieval**  
 The key problems for visual media retrieval are how to describe the semantic similarity of visual media and obtain the optimal compact binary code through hash mapping, and how to address semantic polymorphism and visual polysemy to effectively cross the "semantic gap" and achieve intelligent semantic recognition in accordance with human cognition, and achieve efficient visual media retrieval techniques.  
 Chenggang Yan has proposed a supervised hash coding method based on deep neural networks to address the the incompatibility of manual feature descriptions with binary codes, and achieves a direct mapping from images to high-quality binary codes. He has established a multi-task feature learning model and has proposed a visual semantic recognition method based on cross-modal bridging and knowledge migration to solve the challenges from semantic polymorphism and visual polysemy of internet images. The proposed multi-task feature learning model is based on cross-modal bridging and knowledge migration.
 
-2. Text Analysis (Uyghur)  
+**2. Text Analysis (Uyghur)**  
 Text localization in complex images is a key technique for text analysis. For Chinese and English, re-searchers have proposed many text localization methods based on visual features. Due to the special characteristics of Uyghur characters, its text localization methods are different from those of the rela-tively mature Chinese and English languages. The effectiveness and accuracy of the existing text lo-calization methods in Uyghur are still unsatisfactory. With the population of more 11 million in the world speaking Uyghur, it is important to study the detection of Uyghur text in images.  
 To address the challenge of Uyghur text localization in images with complex backgrounds, Chenggang Yan has studied the mechanism of character strokes and propose a fast text localization method combining FASTroke keypoint detector and component similarity clustering. This method optimizes the computational complexity by reducing the proportion of non-textual components. In order to en-hance the robustness of text detection, a channel-enhanced maximum stable polar region algorithm is designed, which greatly outperforms the traditional maximum stable polar region algorithm.
 
-3. Automatic Visual Content Description  
+**3. Automatic Visual Content Description**  
 Automatic visual content description allows computers to recognize complex semantic information of visual content and then automatically generate textual descriptions that conform to natural human language habits. Unlike traditional visual semantic concept detection, automatic visual content de-scription can learn complex semantic recognition and description models from large-scale visual data, and accurately identify complex semantic information of visual content. Automatic visual content description discovers the intrinsic properties and external connections of different semantics, and au-tomatically generate utterance-level text descriptions that are more consistent with human natural language habits using natural language processing techniques.  
 To address the challenges of recognition errors and loss of details in temporal attention-based video description methods, Chenggang Yan has proposed a temporal attention mechanism in the encod-er-decoder neural network to break the bottleneck of a single temporal attention mechanism. In the proposed mechanism, the decoder automatically selects the important regions in the most relevant time segments for word prediction. The temporal attention mechanism significantly improves the overall performance of video description.
 
@@ -126,9 +126,9 @@ INTERNATIONAL ACTIVITIES:
 ------
 Chenggang Yan has done a lot of work to promote China-Europe extensive cooperation and he and his team also has maintained strong and sustained cooperation and working links with European insti-tutions and centers of scholarship. I recommend him as a foreign member of the Academia Europaea mainly based on his Europe wide activity in the following aspects:
 
-1.	Research Cooperation Platform: As the Director of the Research Office and a member of the Talent Training Committee of Hangzhou Dianzi University, he has led the establishment of 9 China-Europe research cooperation platforms between Hangzhou Dianzi University and research institutes in the United Kingdom, France, Belgium, Ireland, Austria, and Cyprus for academic ex-change, talent training, and industrial cooperation. Based on these platforms, hundreds of stu-dents and faculty members each year from China and European countries are available for ac-ademic exchanges or to pursue degrees in both China and Europe. Detailed information about these platforms is listed below:
-1)	2018/10/29 to 2024/10/28, Collaborative Agreement between the University of Strathclyde, United Kingdom and Hangzhou Dianzi University, China;
-2)	2018/10/30 to present, Contract for a Traineeship within the Framework of an Educational Pro-gram and/or Research between Interuniversity Microelectronics Centre, Belgium and Hangzhou Dianzi University, China;
+**1.	Research Cooperation Platform:** As the Director of the Research Office and a member of the Talent Training Committee of Hangzhou Dianzi University, he has led the establishment of 9 China-Europe research cooperation platforms between Hangzhou Dianzi University and research institutes in the United Kingdom, France, Belgium, Ireland, Austria, and Cyprus for academic ex-change, talent training, and industrial cooperation. Based on these platforms, hundreds of stu-dents and faculty members each year from China and European countries are available for ac-ademic exchanges or to pursue degrees in both China and Europe. Detailed information about these platforms is listed below:
+  1.  2018/10/29 to 2024/10/28, Collaborative Agreement between the University of Strathclyde, United Kingdom and Hangzhou Dianzi University, China;
+  2.	2018/10/30 to present, Contract for a Traineeship within the Framework of an Educational Pro-gram and/or Research between Interuniversity Microelectronics Centre, Belgium and Hangzhou Dianzi University, China;
 3)	2019/5/15 to 2024/5/14, Joint Duel Degree Program Agreement for “3+2” Straight Entrance be-tween Hangzhou Dianzi University, China and Institut supérieur de l'électronique et du numérique, France;
 4)	2019/12/18 to 2029/12/31, Co-operation Agreement for the Postgraduate Program in Electronic Science and Technology between Hangzhou Dianzi University, China and Cyprus University of Technology, Cyprus;
 5)	2020/11/27 to 2030/11/26, Co-operation Agreement for the Graduate Program in Biomedical Engineering between Hangzhou Dianzi University, China and Université de Paris, France;
