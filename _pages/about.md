@@ -138,33 +138,25 @@ Chenggang Yan has done a lot of work to promote China-Europe extensive cooperati
   9.  2022/5/20 to 2027/5/19, Implementation Agreement on Joint PhD Supervision between Dublin City University, Ireland and Hangzhou Dianzi University, China; 
 
 **2. International Conferences:** As chair or main organizer, Dr. Yan has organized 5 international aca-demic conferences in cooperation with European academic institutions. In particular, the Sino-Swiss Artificial Intelligence Conference, of which Dr. Yan is a co-founder, has held three consecutive summits in Switzerland (2017), China (2018), and Switzerland (2019) before the outbreak of COVID-19. The following is the information about these conferences.
-1)	2017 - 2019, Co-founder of the Sino-Swiss Artificial Intelligence Conference, gathered 800+ well-known experts, scholars, and business representatives from China and Switzerland in the field of artificial intelligence;
-2)	2019 - present: Area Chair of the IEEE International Conference on Multimedia & Expo (ICME), held in London, United Kingdom in 2020, with around 1,000 submissions and 500 participants each year;
-3)	2022, General Chair of the 15th EAI International Conference on Mobile Multimedia Commu-nications hosted by the European Alliance for Innovation;
-4)	2021 - 2022, Co-organizer of the 3rd and 4th Workshop on Structuring and Understanding of Multimedia heritAge Contents on ACM Multimedia 2021 and 2022.
+  1)	2017 - 2019, Co-founder of the Sino-Swiss Artificial Intelligence Conference, gathered 800+ well-known experts, scholars, and business representatives from China and Switzerland in the field of artificial intelligence;
+  2)	2019 - present: Area Chair of the IEEE International Conference on Multimedia & Expo (ICME), held in London, United Kingdom in 2020, with around 1,000 submissions and 500 participants each year;
+  3)	2022, General Chair of the 15th EAI International Conference on Mobile Multimedia Commu-nications hosted by the European Alliance for Innovation;
+  4)	2021 - 2022, Co-organizer of the 3rd and 4th Workshop on Structuring and Understanding of Multimedia heritAge Contents on ACM Multimedia 2021 and 2022.
 
-3. Cooperation Project: He participated in the establishment of 15+ Key/Major Programs between Hangzhou Dianzi University and research institutes in the United Kingdom, European Union, Belarus, Austria, Finland, Italy, Germany, and the Netherlands. And some cooperative project achievements have been industrialized and applied in China and European countries along the "Belt and Road", with direct economic benefits of 320 million RMB and indirect economic benefits of 5 billion RMB, and have been reported by China Central Television, China Education News, and praised by P.R.C Vice Premier Yandong Liu. Moreover, since being elected as the Deputy Director of the Overseas Expertise Introduction Center in Control of Cyber-Physical Systems in 2018, he has introduced more than 10 national and international academicians to collaborate with Hangzhou Dianzi University.	
+**3. Cooperation Project:** He participated in the establishment of 15+ Key/Major Programs between Hangzhou Dianzi University and research institutes in the United Kingdom, European Union, Belarus, Austria, Finland, Italy, Germany, and the Netherlands. And some cooperative project achievements have been industrialized and applied in China and European countries along the "Belt and Road", with direct economic benefits of 320 million RMB and indirect economic benefits of 5 billion RMB, and have been reported by China Central Television, China Education News, and praised by P.R.C Vice Premier Yandong Liu. Moreover, since being elected as the Deputy Director of the Overseas Expertise Introduction Center in Control of Cyber-Physical Systems in 2018, he has introduced more than 10 national and international academicians to collaborate with Hangzhou Dianzi University.	
 
 PUBLICATIONS:
 ------
-	SCI Journal Papers
+- SCI Journal Papers
 
-[1]	Chenggang Yan, Lixuan Meng, Liang Li, Jiehua Zhang, Jian Yin, Jiyong Zhang, Zhan Wang, Bo-lun Zheng, “Age-Invariant Face Recognition By Multi-Feature Fusion and Decomposition with Self-Attention”, ACM Transactions on Multimedia Computing Communications and Applications 2021.
-
-[2]	Chenggang Yan, Tong Teng, Yutao Liu, Yongbing Zhang, Haoqian Wang, Xiangyang Ji, “Precise No-Reference Image Quality Evaluation Based on Distortion Identification”, ACM Transactions on Multimedia Computing Communications and Applications 2021.
-
-[3]	Chenggang Yan, Yiming Hao, Liang Li, Jian Yin, Anan Liu, Zhendong Mao, Zhenyu Chen, Xing-yu Gao, “Task-Adaptive Attention for Image Captioning”, IEEE Transactions on Circuits and Systems for Video Technology, 2021. (ESI Highly Cited Paper)
-
-[4]	Chenggang Yan, Zhisheng Li, Yongbing Zhang, Yutao Liu, Xiangyang Ji, Yongdong Zhang, “Depth image denoising using nuclear norm and learning graph model”, ACM Transactions on Multimedia Computing Communications and Applications 2020. (ESI Highly Cited Paper)
-
-[5]	Chenggang Yan, Biao Gong, Yuxuan Wei, Yue Gao, “Deep Multi-View Enhancement Hashing for Image Retrieval”, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020. (ESI Highly Cited Paper)
-
-[6]	Chenggang Yan, Biyao Shao, Hao Zhao, Ruixin Ning, Yongdong Zhang, Feng Xu, “3D Room Layout Estimation from a Single RGB Image”, IEEE Transactions on Multimedia 2020. (ESI Highly Cited Paper)
-
-[7]	Chenggang Yan, Yunbin Tu, Xingzheng Wang, Yongbing Zhang, Xinhong Hao, Yongdong Zhang, Qionghai Dai, “STAT: Spatial-Temporal Attention Mechanism for Video Captioning”, IEEE Transactions on Multimedia 2019. (ESI Highly Cited Paper)
-
-[8]	Chenggang Yan, Liang Li, Chunjie Zhang, Bingtao Liu, Yongdong Zhang, Qionghai Dai, “Cross-modality Bridging and Knowledge Transferring for Image Understanding”, IEEE Transac-tions on Multimedia 2019. (ESI Highly Cited Paper)
-
+[1]	**Chenggang Yan**, Lixuan Meng, Liang Li, Jiehua Zhang, Jian Yin, Jiyong Zhang, Zhan Wang, Bo-lun Zheng, “Age-Invariant Face Recognition By Multi-Feature Fusion and Decomposition with Self-Attention”, ACM Transactions on Multimedia Computing Communications and Applications 2021.  
+[2]	**Chenggang Yan**, Tong Teng, Yutao Liu, Yongbing Zhang, Haoqian Wang, Xiangyang Ji, “Precise No-Reference Image Quality Evaluation Based on Distortion Identification”, ACM Transactions on Multimedia Computing Communications and Applications 2021.  
+[3]	**Chenggang Yan**, Yiming Hao, Liang Li, Jian Yin, Anan Liu, Zhendong Mao, Zhenyu Chen, Xing-yu Gao, “Task-Adaptive Attention for Image Captioning”, IEEE Transactions on Circuits and Systems for Video Technology, 2021. <font color=red>(ESI Highly Cited Paper) </font> 
+[4]	**Chenggang Yan**, Zhisheng Li, Yongbing Zhang, Yutao Liu, Xiangyang Ji, Yongdong Zhang, “Depth image denoising using nuclear norm and learning graph model”, ACM Transactions on Multimedia Computing Communications and Applications 2020. (ESI Highly Cited Paper)  
+[5]	**Chenggang Yan**, Biao Gong, Yuxuan Wei, Yue Gao, “Deep Multi-View Enhancement Hashing for Image Retrieval”, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020. (ESI Highly Cited Paper)  
+[6]	**Chenggang Yan**, Biyao Shao, Hao Zhao, Ruixin Ning, Yongdong Zhang, Feng Xu, “3D Room Layout Estimation from a Single RGB Image”, IEEE Transactions on Multimedia 2020. (ESI Highly Cited Paper)  
+[7]	Chenggang Yan, Yunbin Tu, Xingzheng Wang, Yongbing Zhang, Xinhong Hao, Yongdong Zhang, Qionghai Dai, “STAT: Spatial-Temporal Attention Mechanism for Video Captioning”, IEEE Transactions on Multimedia 2019. (ESI Highly Cited Paper)  
+[8]	Chenggang Yan, Liang Li, Chunjie Zhang, Bingtao Liu, Yongdong Zhang, Qionghai Dai, “Cross-modality Bridging and Knowledge Transferring for Image Understanding”, IEEE Transac-tions on Multimedia 2019. (ESI Highly Cited Paper)  
 [9]	Chenggang Yan, Hongtao Xie, Jianjun Chen, Yongdong Zhang and Qionghai Dai, “A Fast Uyghur Text Detector for Complex Background Images”, IEEE Transactions on Multimedia, 2018. (ESI Highly Cited Paper)
 
 [10]	Chenggang Yan, Hongtao Xie, Dongbao Yang, Jian Yin, Yongdong Zhang, Qionghai Dai, “Super-vised Hash Coding with Deep Neural Network for Environment Perception of Intelligent Vehicles”, IEEE Transactions on Intelligent Transportation Systems, 2018. (ESI Highly Cited Paper)
