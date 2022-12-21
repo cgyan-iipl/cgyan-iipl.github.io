@@ -11,9 +11,9 @@ redirect_from:
 PERSONAL:
 ======
 Name:&ensp;&ensp;Chenggang Yan  
-Address:&ensp;&ensp;Intelligent Information Processing Lab  
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Hangzhou Dianzi University, Hangzhou, China  
-Email:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;cgyan@hdu.edu.cn  
+Address:&ensp;&ensp;&ensp;&ensp;Intelligent Information Processing Lab  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Hangzhou Dianzi University, Hangzhou, China  
+Email:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;cgyan@hdu.edu.cn  
 Date of Birth:&ensp;11.08.1984  
 Citizenship:&ensp;&ensp;China
 
