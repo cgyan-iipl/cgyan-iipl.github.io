@@ -29,10 +29,15 @@ EDUCATION:
 CURRENT RESEARCH INTERESTS:
 ======
 Intelligent Information Processing
+
 Artificial Intelligence
+
 Intelligent System 
+
 Computer Vision 
+
 Video Coding 
+
 Trustworthy Multimedia Computing
 
 HONORS AND AWARDS:
