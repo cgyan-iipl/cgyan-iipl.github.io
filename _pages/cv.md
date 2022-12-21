@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "Honors&Awards"
+title: "Honors & Awards"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 2022&ensp;    Clarivate Names World’s Influential Researchers with Highly Cited Researchers  
 2020&ensp;    Changjiang Distinguished Professor, China  
