@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Honors & Awards"
-permalink: /cv/
+permalink: /honors/
 author_profile: true
 ---
 2022&ensp;    Clarivate Names World’s Influential Researchers with Highly Cited Researchers  
