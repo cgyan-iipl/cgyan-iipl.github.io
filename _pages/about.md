@@ -10,12 +10,12 @@ redirect_from:
 
 PERSONAL:
 ======
-Name&ensp;:&ensp;Chenggang Yan  
-Address&ensp;:&ensp;Intelligent Information Processing Lab  
+Name:&ensp;Chenggang Yan  
+Address:&ensp;Intelligent Information Processing Lab  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Hangzhou Dianzi University, Hangzhou, China  
-Email&ensp;:&ensp;cgyan@hdu.edu.cn  
-Date of Birth&ensp;:&ensp;11.08.1984  
-Citizenship&ensp;:&ensp;China
+Email:&ensp;cgyan@hdu.edu.cn  
+Date of Birth:&ensp;11.08.1984  
+Citizenship:&ensp;China
 
 EDUCATION:
 ======
