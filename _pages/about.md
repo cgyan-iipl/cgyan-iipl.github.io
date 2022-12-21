@@ -19,7 +19,7 @@ Citizenship:&ensp;China
 
 EDUCATION:
 ------
-2008.9-2013.12  Ph.D. in Computer Science             Institute of Computing Technology, Chinese Academy of Sciences, China  
+2008.9-2013.12  &ensp;Ph.D. in Computer Science             Institute of Computing Technology, Chinese Academy of Sciences, China  
 2004.9-2008.7   &ensp;&ensp;BS in Computer Science                Shandong University, China
 
 CURRENT RESEARCH INTERESTS:
