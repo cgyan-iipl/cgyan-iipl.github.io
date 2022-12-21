@@ -11,73 +11,48 @@ redirect_from:
 PERSONAL:
 ======
 Name:  	Chenggang Yan  
-Address: Intelligent Information Processing Lab & Hangzhou Dianzi University, Hangzhou, China
-         
-Email:		cgyan@hdu.edu.cn
-
-Date of Birth:  11.08.1984
-
+Address: Intelligent Information Processing Lab & Hangzhou Dianzi University, Hangzhou, China  
+Email:		cgyan@hdu.edu.cn  
+Date of Birth:  11.08.1984  
 Citizenship:   China
 
 EDUCATION:
 ======
-2008.9-2013.12  Ph.D. in Computer Science              Institute of Computing Technology, Chinese Academy of Sciences, China
-
+2008.9-2013.12  Ph.D. in Computer Science             Institute of Computing Technology, Chinese Academy of Sciences, China  
 2004.9-2008.7   BS in Computer Science                Shandong University, China
 
 CURRENT RESEARCH INTERESTS:
 ======
-Intelligent Information Processing
-
-Artificial Intelligence
-
-Intelligent System 
-
-Computer Vision 
-
-Video Coding 
-
+Intelligent Information Processing  
+Artificial Intelligence  
+Intelligent System  
+Computer Vision  
+Video Coding  
 Trustworthy Multimedia Computing
 
 HONORS AND AWARDS:
 ------
-2022    Clarivate Names World’s Influential Researchers with Highly Cited Researchers
-
-2020    Changjiang Distinguished Professor, China 
-
+2022    Clarivate Names World’s Influential Researchers with Highly Cited Researchers  
+2020    Changjiang Distinguished Professor, China  
 2020    First Prize of Wu Wenjun Artificial Intelligence Science and Technology Progress Award, 
-        China
-        
-2019    Second prize of the National Natural Science Award, China
-
-2018    First Prize of Natural Science Award of Chinese Institute of Electronics, China
-
-2021    Grand Prize of Tianjin Science and Technology Progress Award, China
-
-2021    Person of the Year in Zhejiang Education, China
-
+        China  
+2019    Second prize of the National Natural Science Award, China  
+2018    First Prize of Natural Science Award of Chinese Institute of Electronics, China  
+2021    Grand Prize of Tianjin Science and Technology Progress Award, China  
+2021    Person of the Year in Zhejiang Education, China  
 2020    Second Prize of Higher Education Teaching Achievement Award of Zhejiang Automation  
-        Society, China
-        
-2017    Young Changjiang Scholar, China
-
-2016    Zhejiang Distinguished Professor of Qianjiang Scholars, China
-
+        Society, China  
+2017    Young Changjiang Scholar, China  
+2016    Zhejiang Distinguished Professor of Qianjiang Scholars, China  
 2020    Membership of the Committee of the Signal Processing Branch of the Chinese Institute of 
-        Electronics, China
-        
+        Electronics, China  
 2017    Membership of the Committee of the Virtual Reality Technology Branch of the Chinese 
-        Institute of Electronics, China
-        
-2019    Membership of the Young Committee of the Chinese Society of Image and Graphics, China
-
-2019    Membership of the Young Committee of the Chinese Institute of Electronic, China
-
-2012    Microsoft Scholars Scholarship Nominations
-
+        Institute of Electronics, China  
+2019    Membership of the Young Committee of the Chinese Society of Image and Graphics, China  
+2019    Membership of the Young Committee of the Chinese Institute of Electronic, China  
+2012    Microsoft Scholars Scholarship Nominations  
 2019    Outstanding Scientific and Technological Researcher of Chinese Institute of Electronics, 
-        China
-        
+        China  
 2018    The first level of "151 Talent Project" in Zhejiang, China
 
 2017    Recipient of Zhejiang Outstanding Youth Funds, China
