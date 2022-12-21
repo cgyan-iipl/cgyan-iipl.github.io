@@ -53,110 +53,73 @@ HONORS AND AWARDS:
 2012    Microsoft Scholars Scholarship Nominations  
 2019    Outstanding Scientific and Technological Researcher of Chinese Institute of Electronics, 
         China  
-2018    The first level of "151 Talent Project" in Zhejiang, China
-
-2017    Recipient of Zhejiang Outstanding Youth Funds, China
-
-2016    Young Academic leaders in universities inside Zhejiang, China
-
-2019    Best Student Paper Award, International Conference on Multimedia and Expo
-
-2022    Best Paper Award, EAI MOBIMEDIA
-
+2018    The first level of "151 Talent Project" in Zhejiang, China  
+2017    Recipient of Zhejiang Outstanding Youth Funds, China  
+2016    Young Academic leaders in universities inside Zhejiang, China  
+2019    Best Student Paper Award, International Conference on Multimedia and Expo  
+2022    Best Paper Award, EAI MOBIMEDIA  
 2019    Best Paper Award, International Conference on Artificial Intelligence and Advanced   
-        Manufacturing
-        
-2018    Best Paper Award, Pacific Rim Conference on Multimedia
-
-2018    Best Paper Award, International Conference on Internet Multimedia Computing and Service
-
-2014    Best Prize of President Scholarship, Chinese Academy of Sciences
-
-2014    Best Paper Award, International Conference on Game Theory for Networks
-
-2014    Best Paper Award, SPIE/COS Photonics Asia Conference
-
+        Manufacturing  
+2018    Best Paper Award, Pacific Rim Conference on Multimedia  
+2018    Best Paper Award, International Conference on Internet Multimedia Computing and Service  
+2014    Best Prize of President Scholarship, Chinese Academy of Sciences  
+2014    Best Paper Award, International Conference on Game Theory for Networks  
+2014    Best Paper Award, SPIE/COS Photonics Asia Conference  
 2011    Best Paper Finalist, International Conference on Multimedia and Expo
 
 PROFESSIONAL EXPERIENCE:
 ------
-2021.7-present     Director of Research Office, Hangzhou Dianzi University
-
-2019.6-2021.6     Deputy Director of Research Office, Hangzhou Dianzi University
-
+2021.7-present     Director of Research Office, Hangzhou Dianzi University  
+2019.6-2021.6     Deputy Director of Research Office, Hangzhou Dianzi University 
 2019.5-present     Deputy Director of Engineering Center of Instrument and Automation, Ministry  
-                 of Education of China
-                 
+                 of Education of China  
 2018.3-present     Director of Intelligent Information Processing Laboratory, Hangzhou Dianzi Uni-
-                 versity
-                 
+                 versity  
 2018.3-present     Deputy Director of the Overseas Expertise Collaborating Center in Control of 
-                 Cyber-Physical Systems 
-                 
+                 Cyber-Physical Systems  
 2017.3-present     Mobile Director of Department of Information Science in National Natural Sci-
-                 ence Foundation of China 
-                 
+                 ence Foundation of China  
 2016.1-present     Professor and Doctoral Supervisor in School of Artificial Intelligence, Hangzhou 
-                 Dianzi University
-                 
-2018.5-present     Adjunct Professor and Doctoral Supervisor, Shandong University
-
-2018.3-present     Member of Talent Training Committee, Hangzhou Dianzi University
-
+                 Dianzi University  
+2018.5-present     Adjunct Professor and Doctoral Supervisor, Shandong University  
+2018.3-present     Member of Talent Training Committee, Hangzhou Dianzi University  
 2014.1-2016.1     Assistant Researcher (Postdoctoral) in Department of Automation, Tsinghua Uni-
-                 versity
-                 
+                 versity  
 2012.11-2013.11	Internship in Microsoft Research Asia
 
 MAJOR ACADEMIC SERVICES:
 ------
-	Area Chair, International Conference on Multimedia and Expo, 2019
-
-	Associate Editor, Control Engineering of China, 2018- Present
-
-	Guest Editor, Neuroinformatics, 2017- Present
-
-	Editorial Board, of Multimedia Systems (MMSJ), 2020-present
-
-	General Co-Chair, EAI International Conference on Mobile Multimedia Communications, 2022
-
-	General Co-Chair, IEEE Global Conference on Signal & Information Processing, Symposium on Knowledge-based Multimedia Computing, 2017
-
-	General Co-Chair, IEEE Global Conference on Signal & Information Processing, Symposium on Deep Learning for Intelligent Multimedia Analytics & Security, 2017
-
-	Reviewer, Multimedia Tools and Applications, 2015- Present (389 total assignments)
-
-	Reviewer, Journal of Supercomputing, 2015- Present
-
-	Technical Program Committee Member, IEEE International Conference on Computer and In-formation Technology, 2014
-
-	Reviewer, IEEE Transactions on Neural Networks and Learning Systems, 2014- Present
-
-	Technical Program Committee Member, IEEE International Conference on Multimedia and Ex-po, 2014
-
-	Reviewer, Journal of Visual Communication and Image Representation, 2014- Present
-
-	Reviewer, IEEE Transactions on Image Processing, 2013- Present
-
-	Reviewer, IEEE Transactions on Circuits and Systems for Video Technology, 2013- Present
-
-	Reviewer, IEEE Transactions on Multimedia, 2011- Present
+- Area Chair, International Conference on Multimedia and Expo, 2019
+- Associate Editor, Control Engineering of China, 2018- Present
+- Guest Editor, Neuroinformatics, 2017- Present
+- Editorial Board, of Multimedia Systems (MMSJ), 2020-present
+- General Co-Chair, EAI International Conference on Mobile Multimedia Communications, 2022
+- General Co-Chair, IEEE Global Conference on Signal & Information Processing, Symposium on Knowledge-based Multimedia Computing, 2017
+- General Co-Chair, IEEE Global Conference on Signal & Information Processing, Symposium on Deep Learning for Intelligent Multimedia Analytics & Security, 2017
+- Reviewer, Multimedia Tools and Applications, 2015- Present (389 total assignments)
+- Reviewer, Journal of Supercomputing, 2015- Present
+- Technical Program Committee Member, IEEE International Conference on Computer and In-formation Technology, 2014
+- Reviewer, IEEE Transactions on Neural Networks and Learning Systems, 2014- Present
+- Technical Program Committee Member, IEEE International Conference on Multimedia and Ex-po, 2014
+- Reviewer, Journal of Visual Communication and Image Representation, 2014- Present
+- Reviewer, IEEE Transactions on Image Processing, 2013- Present
+- Reviewer, IEEE Transactions on Circuits and Systems for Video Technology, 2013- Present
+- Reviewer, IEEE Transactions on Multimedia, 2011- Present
 
 MAIN CONTRIBUTIONS AND ACHIEVEMENTS:
 ------
 Chenggang Yan has supervised 18 PhDs and 133 masters since 2016. He has made outstanding con-tributions to research on key technologies of large-scale visual content analysis and processing, and relevant achievements have been recognized by 100+ leading scientists (MAE, IEEE Fellow, etc.).
-
-1. Visual Media Retrieval
+1. Visual Media Retrieval  
 The key problems for visual media retrieval are how to describe the semantic similarity of visual media and obtain the optimal compact binary code through hash mapping, and how to address semantic polymorphism and visual polysemy to effectively cross the "semantic gap" and achieve intelligent semantic recognition in accordance with human cognition, and achieve efficient visual media retrieval techniques.
 
 Chenggang Yan has proposed a supervised hash coding method based on deep neural networks to address the the incompatibility of manual feature descriptions with binary codes, and achieves a direct mapping from images to high-quality binary codes. He has established a multi-task feature learning model and has proposed a visual semantic recognition method based on cross-modal bridging and knowledge migration to solve the challenges from semantic polymorphism and visual polysemy of internet images. The proposed multi-task feature learning model is based on cross-modal bridging and knowledge migration.
 
-2. Text Analysis (Uyghur)
+2. Text Analysis (Uyghur)  
 Text localization in complex images is a key technique for text analysis. For Chinese and English, re-searchers have proposed many text localization methods based on visual features. Due to the special characteristics of Uyghur characters, its text localization methods are different from those of the rela-tively mature Chinese and English languages. The effectiveness and accuracy of the existing text lo-calization methods in Uyghur are still unsatisfactory. With the population of more 11 million in the world speaking Uyghur, it is important to study the detection of Uyghur text in images.
 
 To address the challenge of Uyghur text localization in images with complex backgrounds, Chenggang Yan has studied the mechanism of character strokes and propose a fast text localization method combining FASTroke keypoint detector and component similarity clustering. This method optimizes the computational complexity by reducing the proportion of non-textual components. In order to en-hance the robustness of text detection, a channel-enhanced maximum stable polar region algorithm is designed, which greatly outperforms the traditional maximum stable polar region algorithm.
 
-3. Automatic Visual Content Description
+3. Automatic Visual Content Description  
 Automatic visual content description allows computers to recognize complex semantic information of visual content and then automatically generate textual descriptions that conform to natural human language habits. Unlike traditional visual semantic concept detection, automatic visual content de-scription can learn complex semantic recognition and description models from large-scale visual data, and accurately identify complex semantic information of visual content. Automatic visual content description discovers the intrinsic properties and external connections of different semantics, and au-tomatically generate utterance-level text descriptions that are more consistent with human natural language habits using natural language processing techniques.
 
 To address the challenges of recognition errors and loss of details in temporal attention-based video description methods, Chenggang Yan has proposed a temporal attention mechanism in the encod-er-decoder neural network to break the bottleneck of a single temporal attention mechanism. In the proposed mechanism, the decoder automatically selects the important regions in the most relevant time segments for word prediction. The temporal attention mechanism significantly improves the overall performance of video description.
