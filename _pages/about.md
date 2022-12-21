@@ -55,38 +55,38 @@ HONORS AND AWARDS:
 2019&ensp;    Outstanding Scientific and Technological Researcher of Chinese Institute of Electronics, 
         China  
 2018&ensp;    The first level of "151 Talent Project" in Zhejiang, China  
-2017    Recipient of Zhejiang Outstanding Youth Funds, China  
-2016    Young Academic leaders in universities inside Zhejiang, China  
-2019    Best Student Paper Award, International Conference on Multimedia and Expo  
-2022    Best Paper Award, EAI MOBIMEDIA  
-2019    Best Paper Award, International Conference on Artificial Intelligence and Advanced   
+2017&ensp;    Recipient of Zhejiang Outstanding Youth Funds, China  
+2016&ensp;    Young Academic leaders in universities inside Zhejiang, China  
+2019&ensp;    Best Student Paper Award, International Conference on Multimedia and Expo  
+2022&ensp;    Best Paper Award, EAI MOBIMEDIA  
+2019&ensp;    Best Paper Award, International Conference on Artificial Intelligence and Advanced   
         Manufacturing  
-2018    Best Paper Award, Pacific Rim Conference on Multimedia  
-2018    Best Paper Award, International Conference on Internet Multimedia Computing and Service  
-2014    Best Prize of President Scholarship, Chinese Academy of Sciences  
-2014    Best Paper Award, International Conference on Game Theory for Networks  
-2014    Best Paper Award, SPIE/COS Photonics Asia Conference  
-2011    Best Paper Finalist, International Conference on Multimedia and Expo
+2018&ensp;    Best Paper Award, Pacific Rim Conference on Multimedia  
+2018&ensp;    Best Paper Award, International Conference on Internet Multimedia Computing and Service  
+2014&ensp;    Best Prize of President Scholarship, Chinese Academy of Sciences  
+2014&ensp;    Best Paper Award, International Conference on Game Theory for Networks  
+2014&ensp;    Best Paper Award, SPIE/COS Photonics Asia Conference  
+2011&ensp;    Best Paper Finalist, International Conference on Multimedia and Expo
 
 PROFESSIONAL EXPERIENCE:
 ------
-2021.7-present     Director of Research Office, Hangzhou Dianzi University  
-2019.6-2021.6     Deputy Director of Research Office, Hangzhou Dianzi University 
-2019.5-present     Deputy Director of Engineering Center of Instrument and Automation, Ministry  
+2021.7-present&ensp;     Director of Research Office, Hangzhou Dianzi University  
+2019.6-2021.6&ensp;&ensp;     Deputy Director of Research Office, Hangzhou Dianzi University 
+2019.5-present&ensp;     Deputy Director of Engineering Center of Instrument and Automation, Ministry  
                  of Education of China  
-2018.3-present     Director of Intelligent Information Processing Laboratory, Hangzhou Dianzi Uni-
+2018.3-present&ensp;     Director of Intelligent Information Processing Laboratory, Hangzhou Dianzi Uni-
                  versity  
-2018.3-present     Deputy Director of the Overseas Expertise Collaborating Center in Control of 
+2018.3-present&ensp;     Deputy Director of the Overseas Expertise Collaborating Center in Control of 
                  Cyber-Physical Systems  
-2017.3-present     Mobile Director of Department of Information Science in National Natural Sci-
+2017.3-present&ensp;     Mobile Director of Department of Information Science in National Natural Sci-
                  ence Foundation of China  
-2016.1-present     Professor and Doctoral Supervisor in School of Artificial Intelligence, Hangzhou 
+2016.1-present&ensp;     Professor and Doctoral Supervisor in School of Artificial Intelligence, Hangzhou 
                  Dianzi University  
-2018.5-present     Adjunct Professor and Doctoral Supervisor, Shandong University  
-2018.3-present     Member of Talent Training Committee, Hangzhou Dianzi University  
-2014.1-2016.1     Assistant Researcher (Postdoctoral) in Department of Automation, Tsinghua Uni-
+2018.5-present&ensp;     Adjunct Professor and Doctoral Supervisor, Shandong University  
+2018.3-present&ensp;     Member of Talent Training Committee, Hangzhou Dianzi University  
+2014.1-2016.1&ensp;&ensp;     Assistant Researcher (Postdoctoral) in Department of Automation, Tsinghua Uni-
                  versity  
-2012.11-2013.11	Internship in Microsoft Research Asia
+2012.11-2013.11&ensp;	Internship in Microsoft Research Asia
 
 MAJOR ACADEMIC SERVICES:
 ------
