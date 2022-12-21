@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /contributions/
 title: "Contributions & Achievements"
 author_profile: true
 
