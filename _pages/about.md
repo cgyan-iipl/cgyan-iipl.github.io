@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 PERSONAL:
-======
+------
 Name:&ensp;Chenggang Yan  
 Address:&ensp;Intelligent Information Processing Lab  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Hangzhou Dianzi University, Hangzhou, China  
@@ -18,12 +18,12 @@ Date of Birth:&ensp;11.08.1984
 Citizenship:&ensp;China
 
 EDUCATION:
-======
+------
 2008.9-2013.12  Ph.D. in Computer Science             Institute of Computing Technology, Chinese Academy of Sciences, China  
 2004.9-2008.7   BS in Computer Science                Shandong University, China
 
 CURRENT RESEARCH INTERESTS:
-======
+------
 Intelligent Information Processing  
 Artificial Intelligence  
 Intelligent System  
