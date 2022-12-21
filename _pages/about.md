@@ -70,21 +70,21 @@ HONORS AND AWARDS:
 
 PROFESSIONAL EXPERIENCE:
 ------
-2021.7-present&ensp;     Director of Research Office, Hangzhou Dianzi University  
-2019.6-2021.6&ensp;&ensp;     Deputy Director of Research Office, Hangzhou Dianzi University 
-2019.5-present&ensp;     Deputy Director of Engineering Center of Instrument and Automation, Ministry  
+2021.7-present&ensp;&ensp;     Director of Research Office, Hangzhou Dianzi University  
+2019.6-2021.6&ensp;&ensp;&ensp;     Deputy Director of Research Office, Hangzhou Dianzi University 
+2019.5-present&ensp;&ensp;     Deputy Director of Engineering Center of Instrument and Automation, Ministry  
                  of Education of China  
-2018.3-present&ensp;     Director of Intelligent Information Processing Laboratory, Hangzhou Dianzi Uni-
+2018.3-present&ensp;&ensp;     Director of Intelligent Information Processing Laboratory, Hangzhou Dianzi Uni-
                  versity  
-2018.3-present&ensp;     Deputy Director of the Overseas Expertise Collaborating Center in Control of 
+2018.3-present&ensp;&ensp;     Deputy Director of the Overseas Expertise Collaborating Center in Control of 
                  Cyber-Physical Systems  
-2017.3-present&ensp;     Mobile Director of Department of Information Science in National Natural Sci-
+2017.3-present&ensp;&ensp;     Mobile Director of Department of Information Science in National Natural Sci-
                  ence Foundation of China  
-2016.1-present&ensp;     Professor and Doctoral Supervisor in School of Artificial Intelligence, Hangzhou 
+2016.1-present&ensp;&ensp;     Professor and Doctoral Supervisor in School of Artificial Intelligence, Hangzhou 
                  Dianzi University  
-2018.5-present&ensp;     Adjunct Professor and Doctoral Supervisor, Shandong University  
-2018.3-present&ensp;     Member of Talent Training Committee, Hangzhou Dianzi University  
-2014.1-2016.1&ensp;&ensp;     Assistant Researcher (Postdoctoral) in Department of Automation, Tsinghua Uni-
+2018.5-present&ensp;&ensp;     Adjunct Professor and Doctoral Supervisor, Shandong University  
+2018.3-present&ensp;&ensp;     Member of Talent Training Committee, Hangzhou Dianzi University  
+2014.1-2016.1&ensp;&ensp;&ensp;     Assistant Researcher (Postdoctoral) in Department of Automation, Tsinghua Uni-
                  versity  
 2012.11-2013.11&ensp;	Internship in Microsoft Research Asia
 
