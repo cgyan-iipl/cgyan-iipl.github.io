@@ -12,7 +12,7 @@ PERSONAL:
 ======
 Name:  	Chenggang Yan  
 Address: Intelligent Information Processing Lab  
-Hangzhou Dianzi University, Hangzhou, China  
+&ensp; &ensp; &ensp; &ensp; Hangzhou Dianzi University, Hangzhou, China  
 Email:		cgyan@hdu.edu.cn  
 Date of Birth:  11.08.1984  
 Citizenship:   China
