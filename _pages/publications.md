@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-#### SCI Journal Papers
+### SCI Journal Papers
 
 [1]	**Chenggang Yan**, Lixuan Meng, Liang Li, Jiehua Zhang, Jian Yin, Jiyong Zhang, Zhan Wang, Bo-lun Zheng, “Age-Invariant Face Recognition By Multi-Feature Fusion and Decomposition with Self-Attention”, ACM Transactions on Multimedia Computing Communications and Applications 2021.  
 [2]	**Chenggang Yan**, Tong Teng, Yutao Liu, Yongbing Zhang, Haoqian Wang, Xiangyang Ji, “Precise No-Reference Image Quality Evaluation Based on Distortion Identification”, ACM Transactions on Multimedia Computing Communications and Applications 2021.  
@@ -84,7 +84,7 @@ author_profile: true
 [76]	Liang Li, **Chenggang Yan**, Xing Chen, Chunjie Zhang, Jian Yin, Baochen Jiang, Qingming Huang, “Distributed image understanding with semantic dictionary and semantic expansion”, Neuro-computing, Vol. 174, Part A, pp. 384-392, 2016.   
 [77]	Liang Li, **Chenggang Yan**, Wen Ji, Bo-Wei Chen, Shuqiang Jiang, Qingming Huang, “LSH-based Semantic Dictionary Learning for Large Scale Image Understanding”, Journal of Visual Commu-nication and Image Representation, 2015.   
 [78]	**Chenggang Yan**, Liang Li, Zhan Wang, Jian Yin, Hailong Shi, Shuqiang Jiang, Qingming Huang, “Fusing multi-cues description for partial-duplicate image retrieval”, Journal of Visual Communi-cation and Image Representation, 2014.  
-#### Conference Papers
+### Conference Papers
 
 [79]	Hang Xu, Qiang Zhao, Yike Ma, Xiaodong Li, Peng Yuan, Bailan Feng, **Chenggang Yan**, Feng Dai. "PANDORA: A Panoramic Detection Dataset for Object with Orientation." European Con-ference on Computer Vision, 2022.  
 [80]	Jinkai Zheng, Xinchen Liu, Xiaoyan Gu, Yaoqi Sun, Chuang Gan, Jiyong Zhang, Wu Liu, **Cheng-gang Yan**. "Gait recognition in the wild with multi-hop temporal switch." Proceedings of the 30th ACM International Conference on Multimedia. 2022.  
