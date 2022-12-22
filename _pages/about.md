@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: Chenggang Yan’s Personal Website
 excerpt: "Chenggang Yan"
 author_profile: true
 redirect_from: 
