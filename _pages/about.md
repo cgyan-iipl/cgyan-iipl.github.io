@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CURRICULUM VITAE"
+title: /
 excerpt: "Chenggang Yan"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-PERSONAL:
+ABOUT ME:
 ------
-Name:&ensp;**Chenggang Yan**  
-Address:&ensp;Intelligent Information Processing Lab  
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Hangzhou Dianzi University, Hangzhou, China  
-Email:&ensp;cgyan@hdu.edu.cn  
-Date of Birth:&ensp;11.08.1984  
-Citizenship:&ensp;China
+Chenggang Yan is a Chinese computer scientist. He is a professor at Hangzhou Dianzi University and the founding director of Intelligent Information Processing Laboratory, and the chief scientist at Lishui Institute of Hangzhou Dianzi University. His research interests specialize in Artificial intelligence, Intelligent system, Computer vision and Video coding. In 2017 he received Young Changjiang Scholar and co-founded the first Sino-Swiss Artificial Intelligence Conference.  In 2018 his research team won the First Prize of Natural Science Award of Chinese Institute of Electronics. In 2019 he received the Outstanding Scientific and Technological Researcher of Chinese Institute of Electronics, and his research team won the Second prize of the National Natural Science Award of China. In 2020 he received Changjiang Distinguished Professor, and his research team received the First Prize of Wu Wenjun Artificial Intelligence Science and Technology Progress Award. In 2021 he won the Person of the Year in Zhejiang Education and the Grand Prize of  Tianjin Science and Technology Progress Award. In 2022 he received Clarivate Names World’s Influential Researchers with Highly Cited Researchers. He is elected as the membership of the Committee of the Signal Processing Branch of the Chinese Institute of Electronics, the Committee of the Virtual Reality Technology  Branch of the Chinese Institute of Electronics, the Young Committee of the Chinese Society of Image and Graphics, and the Young Committee of the Chinese Institute of Electronic. 
 
 EDUCATION:
 ------
