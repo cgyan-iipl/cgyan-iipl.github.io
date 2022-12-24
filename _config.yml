@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chenggang Yan"
   avatar           : "cgyan_profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : #"Your biography for the left-hand sidebar"
   location         : "Hangzhou Dianzi University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
