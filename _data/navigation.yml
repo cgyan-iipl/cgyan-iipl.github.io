@@ -14,7 +14,10 @@ main:
 
   #- title: "International Activities"
   #  url: /activities/
-    
+  
+  - title: "News"
+    url: /news/
+
   - title: "Interests"
     url: /interests/
 
