@@ -9,8 +9,8 @@ main:
   - title: "Projects"
     url: /contributions/
 
-  - title: "International Activities"
-    url: /activities/
+  #- title: "International Activities"
+  #  url: /activities/
     
   - title: "Interests"
     url: /interests/
