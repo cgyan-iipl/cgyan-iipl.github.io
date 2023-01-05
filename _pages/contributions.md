@@ -1,10 +1,10 @@
 ---
 permalink: /contributions/
-title: "Contributions & Achievements"
+title: "Research Projects"
 author_profile: true
 
 ---
-Chenggang Yan has supervised 18 PhDs and 133 masters since 2016. He has made outstanding con-tributions to research on key technologies of large-scale visual content analysis and processing, and relevant achievements have been recognized by 100+ leading scientists (MAE, IEEE Fellow, etc.).  
+<!-- Chenggang Yan has supervised 18 PhDs and 133 masters since 2016. He has made outstanding con-tributions to research on key technologies of large-scale visual content analysis and processing, and relevant achievements have been recognized by 100+ leading scientists (MAE, IEEE Fellow, etc.).   -->
 **1. Visual Media Retrieval**  
 &ensp;&ensp;The key problems for visual media retrieval are how to describe the semantic similarity of visual media and obtain the optimal compact binary code through hash mapping, and how to address semantic polymorphism and visual polysemy to effectively cross the "semantic gap" and achieve intelligent semantic recognition in accordance with human cognition, and achieve efficient visual media retrieval techniques.  
 &ensp;&ensp;Chenggang Yan has proposed a supervised hash coding method based on deep neural networks to address the the incompatibility of manual feature descriptions with binary codes, and achieves a direct mapping from images to high-quality binary codes. He has established a multi-task feature learning model and has proposed a visual semantic recognition method based on cross-modal bridging and knowledge migration to solve the challenges from semantic polymorphism and visual polysemy of internet images. The proposed multi-task feature learning model is based on cross-modal bridging and knowledge migration.
