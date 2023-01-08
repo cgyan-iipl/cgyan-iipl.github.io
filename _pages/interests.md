@@ -8,15 +8,15 @@ Playing basketball with students.
 
 <table border='0'>
 <tr>
-<td><img src='/images/basketball1.jpg' width='320'></td>
-<td><img src='/images/basketball2.jpg' width='320'></td>
+<td><img src='/images/basketball1.jpg'></td>
+<td><img src='/images/basketball2.jpg'></td>
 </tr>
 <tr>
-<td><img src='/images/basketball3.jpg' width='320'></td>
-<td><img src='/images/basketball4.jpg' width='320'></td>
+<td><img src='/images/basketball3.jpg'></td>
+<td><img src='/images/basketball4.jpg'></td>
 </tr></table>
 
 Playing badminton with students.
 
 
-<img src='/images/badminton1.jpg' width='320'>
+<img src='/images/badminton1.jpg' width='480'>
