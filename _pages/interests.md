@@ -6,7 +6,7 @@ author_profile: true
 ---
 Playing basketball with students.
 
-<table>
+<table style="border: none;">
 <tr>
 <td><img src='/images/basketball1.jpg'></td>
 <td><img src='/images/basketball2.jpg'></td>
