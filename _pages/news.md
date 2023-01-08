@@ -25,3 +25,12 @@ The paper of Professor Chenggang Yan's team "Multi-Scale Representation Learning
 
 The paper of Professor Chenggang Yan's team "PlaneFusion: Real-Time Indoor Scene Reconstruction with Planar Prior" was accepted by IEEE Transactions on Visualization and Computer Graphics.
 
+The paper of Professor Chenggang Yan's team "Heuristic Depth Estimation with Progressive Depth Reconstruction and Confidence-Aware Loss" was accepted by ACM Multimedia (CCF-A conference), a top conference in the field of multimedia.
+
+The paper of Professor Chenggang Yan's team "CBREN: Convolutional Neural Networks for Constant Bit Rate Video Quality Enhancement" was accepted by IEEE Transactions on Circuits and Systems for Video Technology (SCI Region I Journal, Impact factor 4.682).
+
+The paper of Professor Chenggang Yan's team "Dynamic Selective Network for RGB-D Salient Object Detection" was accepted by IEEE Transaction on Image Processing (CCF Class A, Impact Factor 10.856) was accepted as a regular paper.
+
+Uob and Hangzhou Dianzi University jointly build intelligent information processing Engineering Research Center.
+
+The paper of Professor Chenggang Yan's team "Hamming Embedding Sensitivity Guided Fusion Network for 3D Shape Representation " was accepted by IEEE Transaction on Image Processing.
