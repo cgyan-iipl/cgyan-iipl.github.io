@@ -6,10 +6,10 @@ author_profile: true
 ---
 Playing basketball with students.
 
-<table cellspacing="0px">
+<table>
 <tr>
-<td><img src='/images/basketball1.jpg' width='320' border='0'></td>
-<td><img src='/images/basketball2.jpg' width='320' border='0'></td>
+<td><img src='/images/basketball1.jpg' width='320' border='0' cellspacing='0'></td>
+<td><img src='/images/basketball2.jpg' width='320' border='0' cellspacing='0'></td>
 </tr>
 <tr>
 <td><img src='/images/basketball3.jpg' width='320'></td>
