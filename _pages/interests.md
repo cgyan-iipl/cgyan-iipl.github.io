@@ -8,12 +8,12 @@ Playing basketball with students.
 
 <table border='0'>
 <tr>
-<td><img src='/images/basketball1.jpg'></td>
-<td><img src='/images/basketball2.jpg'></td>
+<td style="border: none;"><img src='/images/basketball1.jpg'></td>
+<td style="border: none;"><img src='/images/basketball2.jpg'></td>
 </tr>
 <tr>
-<td><img src='/images/basketball3.jpg'></td>
-<td><img src='/images/basketball4.jpg'></td>
+<td style="border: none;"><img src='/images/basketball3.jpg'></td>
+<td style="border: none;"><img src='/images/basketball4.jpg'></td>
 </tr></table>
 
 Playing badminton with students.
