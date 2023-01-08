@@ -7,11 +7,11 @@ author_profile: true
 Playing basketball with students.
 
 <table style="border: none;">
-<tr style="border: none;"****>
+<tr style="border: none;">
 <td style="border: none;"><img src='/images/basketball1.jpg'></td>
 <td style="border: none;"><img src='/images/basketball2.jpg'></td>
 </tr>
-<tr style="border: none;"****>
+<tr style="border: none;">
 <td style="border: none;"><img src='/images/basketball3.jpg'></td>
 <td style="border: none;"><img src='/images/basketball4.jpg'></td>
 </tr></table>
