@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Chenggang Yan"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Chenggang Yan"
 description              : &description "personal description"
 url                      : https://cgyan-iipl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
